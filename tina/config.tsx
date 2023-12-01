@@ -22,7 +22,7 @@ export const config = defineConfig({
         name: 'post',
         label: 'Posts',
         format: 'mdx',
-        path: 'data/blog',
+        path: 'data/demo/blog',
         fields: [
           {
             type: 'string',
