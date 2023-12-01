@@ -1,2 +1,4 @@
 node_modules
 .eslintrc.js
+public/admin
+tina/__generated__
